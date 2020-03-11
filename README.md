@@ -2,6 +2,7 @@
 
 ## How to run: 
 javac Vigenere.java
+
 java Vigenere key.txt plaintext.txt
 
 ## Output Example:
@@ -39,6 +40,7 @@ ppdfsfkdyfoqeqlbslirqflkxiyboqbf
 
 ## How to run: 
 javac RailFence.java
+
 java RailFence plaintext.txt 4
 
 ## Output example:
